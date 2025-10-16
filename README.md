@@ -3,6 +3,6 @@ pelo Instituto Arte dos Dados.
 
 Aqui consta:
 
-Pipelinas em Python e SQL - ELT e ELT;
+Pipelines em Python e SQL - ELT e ELT;
 
 Scripts de Modelos de Regressão;
