@@ -1,7 +1,7 @@
 Diretório dedicado a inserção de dados de trabalhos realizados durante o curso ministrado
 pelo Instituto Arte dos Dados. 
 
-Aqui constam:
+Aqui consta:
 
 Pipelinas em Python e SQL - ELT e ELT;
 
